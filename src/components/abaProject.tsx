@@ -33,7 +33,7 @@ export default function AbasProjects() {
   return (
     <div className="w-full">
       <div className="flex justify-center">
-        <h3 className="p-4 font-bold antialiased text-4xl">
+        <h3 className="p-4 font-bold antialiased text-3xl lg:text-4xl">
           Projeto Ezdk Coworking
           <span className="text-yellow-300 font-extrabold text-3xl">.</span>
         </h3>
