@@ -83,7 +83,7 @@ export default function Home() {
         </div>
       </section>
       <section className="my-20">
-        <div className="flex justify-center py-4 mb-16 lg:max-w-4xl mx-2 lg:m-auto ">
+        <div className="flex justify-center lg:py-4 mb-16 lg:max-w-4xl mx-2 lg:m-auto ">
           <AbasProjects />
         </div>
       </section>
